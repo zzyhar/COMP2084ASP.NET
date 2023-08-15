@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{A9A3506C-50D6-435D-BDEE-4404D5DA26D5}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LabWebApp-200539853 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LabWebApp-200539853/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="LabWebApp-200539853/Views/Shared/_Layout.cshtml" Line="38" Column="31" />
+      <File FileName="LabWebApp-200539853/Views/Home/Index.cshtml" Line="6" Column="4" />
+      <File FileName="LabWebApp-200539853/Views/Home/Privacy.cshtml" />
+      <File FileName="LabWebApp-200539853/Models/Product.cs" />
+      <File FileName="LabWebApp-200539853/Data/ApplicationDbContext.cs" />
+      <File FileName="LabWebApp-200539853/appsettings.json" />
+      <File FileName="LabWebApp-200539853/Models/ErrorViewModel.cs" />
+      <File FileName="LabWebApp-200539853/Properties/launchSettings.json" />
+      <File FileName="LabWebApp-200539853/Controllers/HomeController.cs" />
+      <File FileName="LabWebApp-200539853/Program.cs" />
+      <File FileName="LabWebApp-200539853/Migrations/20230725161150_MigrationName.cs" />
+      <File FileName="LabWebApp-200539853/Migrations/20230725161150_MigrationName.Designer.cs" />
+      <File FileName="LabWebApp-200539853/Migrations/20230814172106_Migrations.cs" Line="5" Column="30" />
+      <File FileName="LabWebApp-200539853/Migrations/20230814172106_Migrations.Designer.cs" />
+      <File FileName="LabWebApp-200539853/Migrations/ApplicationDbContextModelSnapshot.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LabWebApp-200539853" expanded="True">
+            <Node name="LabWebApp-200539853" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20230725161150_MigrationName.cs" expanded="True" />
+                <Node name="20230814172106_Migrations.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Products" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
